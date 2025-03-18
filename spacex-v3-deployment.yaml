@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: my-app-container
-          image: agentbinod649176/spacex:v3
+          image: agentbinod649176/spacex:latest
           ports:
             - containerPort: 80
 ---
